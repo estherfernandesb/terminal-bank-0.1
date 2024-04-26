@@ -55,7 +55,6 @@ public class Datas {
                 3- Receive Value
                 4- Exit
                 """;
-        System.out.println(menu);
 
         while (operations != 4) {
             System.out.println(menu);
